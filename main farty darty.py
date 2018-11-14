@@ -1,2 +1,6 @@
-print("Hello world i come in peace and peperonis / fartsbutt face" )
-print("hellobuttfaceminions from galaxy fart banana face you are stupind annoying and a son of a cookie  you are muffin and a cupcake you also are like beeppppppppppp")
+def main(msg):
+    print(msg)
+
+
+main("hello my fellow banana people")
+main(1+1)
